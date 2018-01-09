@@ -18,19 +18,17 @@ It is distributed under the GNU GENERAL PUBLIC LICENSE Version 2 - please consul
 
 _______________________
 
-Prerequisites
+Prerequisites :
 
 
-    A web server (Apache, Nginx, IIS, etc.)
+    A web server
 
-    MariaDB (or MySQL < 5.7)
+    A dataBase
 
-    PHP 5.6 or higher
-
-
+    
 _______________________
 
-Genesis
+Genesis :
 
 After much research, I did not find a free web software capable of being used as an internal reprographic platform in a company, university, administration.
 
